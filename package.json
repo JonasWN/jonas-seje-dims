@@ -1,0 +1,19 @@
+{
+  "name": "@jonaswn/jonas-seje-dims",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JonasWN/jonas-seje-dims.git"
+  },
+  "author": "jonasWN",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JonasWN/jonas-seje-dims/issues"
+  },
+  "homepage": "https://github.com/JonasWN/jonas-seje-dims#readme"
+}
